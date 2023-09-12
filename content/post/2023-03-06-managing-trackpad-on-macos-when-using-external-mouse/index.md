@@ -24,3 +24,4 @@ Firstly enable Mouse Keys by switching on the slider in the Pointer Control opti
 Switch on the two sliders to disable the trackpad when Mouse Keys is on and also enable the option to quickly enable/disable Mouse Keys by pressing the Option key 5 times. You should find that the trackpad is now correctly disabled. To enable the trackpad again just turn off Mouse Keys by tapping Option key 5 times.
 
 Job done.
+
