@@ -5,7 +5,7 @@ categories:
    - Hugo
 title: UKMac.net has moved to Hugo
 description: One of these days I will find a CMS I like and stick with it :)
-image: hugo-go-cms.png
+image: hugo-go-cms.jpg
 aliases:
    /posts/2022-08-07-hugo/
 ---
