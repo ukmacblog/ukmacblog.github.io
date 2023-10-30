@@ -1,12 +1,13 @@
 ---
 date: "2023-10-30T00:00:00Z"
-title: Daily Post - 2023-10-30
+title: A short break from work..
 categories:
   - Daily Post
   - Apple
+  - Zwift
 tags:
   - Apps
-image: 
+image: 2023-10-30-zwift.jpg
 ---
 I am taking a few days leave for half term this week so today was busy busy busy...
 
