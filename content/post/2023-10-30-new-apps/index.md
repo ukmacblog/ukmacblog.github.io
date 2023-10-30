@@ -19,6 +19,7 @@ This morning started with a quick ride on stage 5 of Tour de Zwift (Canopies and
 {{< /rawhtml >}}
 
 
+
 ## Daily Links
 
 |Link|Description|
